@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: How could Flickr be improved?
-title: ''
+title: "[FEATURE] "
 labels: ''
 assignees: ''
 

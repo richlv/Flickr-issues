@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: A bug in Flickr
-title: ''
+title: "[BUG] "
 labels: ''
 assignees: ''
 
